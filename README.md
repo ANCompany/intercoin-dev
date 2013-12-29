@@ -1,3 +1,3 @@
-FooCoin (FOO)
+InterCoin (ITC)
 
 Blah, blah, blah.
